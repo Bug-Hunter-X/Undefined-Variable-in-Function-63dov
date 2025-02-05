@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP error: using an undefined variable.  The `bug.php` file contains the erroneous code, resulting in a PHP Notice or Warning. The solution, provided in `bugSolution.php`, addresses the issue by properly initializing the variable.
